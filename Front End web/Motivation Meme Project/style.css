@@ -1,0 +1,25 @@
+body {
+    background-color: #31363F;
+}
+
+h1 {
+    font-size: 3rem;
+    text-transform: uppercase;     
+}
+
+.container{
+    margin-top: 100px;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    color: white;
+}
+
+.poster {
+    width: 500px;
+    height: auto;
+    border: 5px solid white
+}
+
+.cheering{
+    margin-left: 20%;
+}
